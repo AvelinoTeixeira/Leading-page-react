@@ -37,9 +37,9 @@ import React from 'react'
                 <p>A saga "Harry Potter", dirigida principalmente por Chris Columbus, Alfonso Cuarón e David Yates, é uma jornada mágica que cativou o mundo. Baseada nos livros de J.K. Rowling, a série segue Harry Potter, um jovem bruxo destinado a enfrentar as trevas do Lorde das Trevas. Com uma mistura encantadora de fantasia, amizade e heroísmo, os filmes capturam a imaginação de gerações. Além dos efeitos visuais deslumbrantes, a saga "Harry Potter" transcende o mundo mágico, explorando temas universais de coragem, sacrifício e o poder do amor.</p>
                 <div className='video6'><iframe width="560" height="315" src="https://www.youtube.com/embed/VyHV0BRtdxo?si=pHMwx6ECY2ugnsuE" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
       </div>
-                
+
                 <hr />
-                <p>Desenvolvido por Avelino Teixera</p>
+                <p>Desenvolvido por Avelino Teixeira</p>
                 
             </div>
             
