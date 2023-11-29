@@ -39,9 +39,6 @@ import React from 'react'
       </div>
                 
                 <hr />
-                <h2>Me encontre</h2>
-              
-                
                 <p>Desenvolvido por Avelino Teixera</p>
                 
             </div>
